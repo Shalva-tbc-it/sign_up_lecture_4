@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="default_text">#96A7AF</color>
+    <color name="linear_gradient_first">#22343C</color>
+    <color name="linear_gradient_second">#1F2E35</color>
+
+</resources>
