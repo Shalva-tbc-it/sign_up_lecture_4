@@ -5,5 +5,6 @@
     <color name="default_text">#96A7AF</color>
     <color name="linear_gradient_first">#22343C</color>
     <color name="linear_gradient_second">#1F2E35</color>
+    <color name="shadow">#0FDA894D</color>
 
 </resources>
